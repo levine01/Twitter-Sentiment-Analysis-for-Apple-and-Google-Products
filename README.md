@@ -33,9 +33,6 @@ In parallel, our sentiment analysis of Apple products on Twitter revealed key in
 
 Consumers can also benefit by gauging public opinion to make informed purchasing choices. Overall, our sentiment analysis empowers a wide range of stakeholders to make data-driven decisions in the context of Apple's products and public sentiment.
 
-## Conclusion
-
-The sentiment analysis of Apple and Google products revealed that public sentiment towards these tech giants is closely tied to product launches and major announcements. Apple tends to experience surges in positive sentiment during product releases, while negative sentiment arises from product issues or controversies. This underscores the opportunity for Apple to use sentiment monitoring to inform marketing and product strategies. In contrast, Google encounters sentiment fluctuations across its diverse product and service portfolio, with sentiment spikes tied to developments or issues with products like Android, Google Search, or Google Maps. Understanding these dynamics enables Google to address user concerns and enhance its product offerings based on real-time sentiment insights.
 
 ## Recommendation
 
