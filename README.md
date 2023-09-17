@@ -41,3 +41,7 @@ Consumers can also benefit by gauging public opinion to make informed purchasing
 - Tailor marketing campaigns based on sentiment trends. Positive sentiment can be capitalized on through promotional activities, while negative sentiment can inform campaigns aimed at addressing specific concerns
 - Compare sentiment data with competitors to gain a competitive edge. Understanding how Apple and Google stack up against their rivals in terms of public perception can guide strategies for differentiation.
 - Engage directly with users who express feedback on social media. Responding to both positive and negative comments demonstrates a commitment to customer satisfaction and can turn negative sentiment into positive experiences.
+
+## Presentention
+
+Presentation slides found [here](https://www.canva.com/design/DAFurhpNMtg/MpLGL8vOt2wIw05D6SulaA/edit?utm_content=DAFurhpNMtg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
