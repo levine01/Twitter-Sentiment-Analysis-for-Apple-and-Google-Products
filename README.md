@@ -2,10 +2,10 @@
 
 ![photo](https://images.pexels.com/photos/40185/mac-freelancer-macintosh-macbook-40185.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-### Overview
+## Overview
 This project aims to analyze Twitter sentiment regarding Apple and Google products using Natural Language Processing (NLP) techniques. The goal is to develop a model that can classify tweets as positive, negative, or neutral based on their content, helping to understand public sentiment towards these technology giants.
 
-### Business understanding
+## Business understanding
 In the realm of technology giants, Apple and Google, public sentiment plays a pivotal role in shaping their strategies and brand perception. This analysis focuses on understanding the dynamics of sentiment expressed on Twitter concerning these companies. Apple and Google have a significant global presence and are influenced by various factors, including product launches and developments. Last year, Apple's revenue exceeded $300 billion, while Google's parent company, Alphabet, reported revenues of over $181 billion. Monitoring and leveraging public sentiment can provide valuable insights for both companies in guiding marketing strategies and product development decisions.
 
 The real-world problem we aim to address is the need for Apple and Google to gain actionable insights from the vast amount of public sentiment expressed on Twitter. Understanding customer sentiment is crucial for these companies as it directly impacts their product development, marketing strategies, and overall brand reputation. Negative sentiment can indicate areas that need improvement, while positive sentiment can inform successful strategies.
