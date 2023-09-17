@@ -33,7 +33,6 @@ In parallel, our sentiment analysis of Apple products on Twitter revealed key in
 
 Consumers can also benefit by gauging public opinion to make informed purchasing choices. Overall, our sentiment analysis empowers a wide range of stakeholders to make data-driven decisions in the context of Apple's products and public sentiment.
 
-
 ## Recommendation
 
 - Implement real-time sentiment monitoring systems for Twitter and other social media platforms. This will enable Apple and Google to promptly detect shifts in public sentiment and respond proactively to emerging trends or issues.
