@@ -29,7 +29,7 @@ We employ various machine learning techniques to build a robust sentiment analys
 
 For binary sentiment analysis, the Random Forest model emerged as the top performer, achieving an accuracy of 88.84% with balanced precision and recall for both positive and negative sentiments. In multiclass sentiment analysis, the Logistic Regression model outshone others with an accuracy of 69.1%, demonstrating balanced performance across sentiments.
 
-In parallel, our sentiment analysis of Apple products on Twitter revealed key influencing factors, such as the frequency of positive and negative terms, specific keywords, and the volume of mentions. Stakeholders, including Apple, market analysts, and investors, can leverage these insights to assess marketing effectiveness, predict stock performance, and make informed investment decisions.
+Our sentiment analysis of Apple products on Twitter revealed key influencing factors, such as the frequency of positive and negative terms, specific keywords, and the volume of mentions. Stakeholders, including Apple, market analysts, and investors, can leverage these insights to assess marketing effectiveness, predict stock performance, and make informed investment decisions.
 
 Consumers can also benefit by gauging public opinion to make informed purchasing choices. Overall, our sentiment analysis empowers a wide range of stakeholders to make data-driven decisions in the context of Apple's products and public sentiment.
 
